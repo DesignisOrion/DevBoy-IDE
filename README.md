@@ -1,7 +1,6 @@
 # DevBoy IDE
 
-DevBoy IDE is an integrated development environment for Python that is designed for python beginners to advance.
-Included the executable file which is available for download.
+DevBoy IDE is an integrated development environment for Python that is designed for python developers.
 Enjoy!
 
 ## Usage
